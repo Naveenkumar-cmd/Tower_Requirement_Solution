@@ -1,4 +1,4 @@
-# c-program-
+# c-programm
 C program for finding number of towers required by taking its height as a stack.
 #include <stdio.h>
 
